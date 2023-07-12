@@ -7,7 +7,7 @@ Description: Qe SEO Handyman is a multitool plugin that can greatly help your on
  
 Version: 1.0
  
-Author: QeRetail
+Author: Anup Chauhan
 
 */
 
